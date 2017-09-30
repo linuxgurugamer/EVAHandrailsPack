@@ -1,6 +1,6 @@
 {
 	"NAME":"EVAHandrailsPackContinued",
-	"URL":"http://ksp-avc.cybutek.net/version.php?id=181",
+	"URL":"https://raw.githubusercontent.com/linuxgurugamer/EVAHandrailsPack/master/NEBULA/EVAHandrailsPackContinued.version",
 	"DOWNLOAD":"http://spacedock.info/mod/49/EVA%20Handrails%20Continued/download",
 	"CHANGE_LOG_URL":"http://spacedock.info/mod/49/EVA%20Handrails%20Continued?new=True#changelog",
 	"VERSION":
@@ -8,7 +8,7 @@
 		"MAJOR":0,
 		"MINOR":2,
 		"PATCH":1,
-		"BUILD":5
+		"BUILD":6
 	},
 	"KSP_VERSION":
 	{
