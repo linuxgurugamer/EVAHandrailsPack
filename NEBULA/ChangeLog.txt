@@ -24,3 +24,6 @@
 
 0.2.1.7
 	Updated version info for 1.4.1
+
+0.2.1.8
+	Version bump for 1.5
