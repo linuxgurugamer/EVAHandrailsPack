@@ -1,5 +1,6 @@
 #!/bin/bash
-v="NEBULA/EVAHandrailsPackContinued.version"
+v="EVAHandrailsPackContinued.version"
+cp $v GameData/NEBULA/EVAHandRailsPack
 major=`grep -m 1 MAJOR $v | cut -f2 -d':' | tr -d , | tr -d '[:space:]'`
 minor=`grep -m 1 MINOR $v | cut -f2 -d':' | tr -d ,| tr -d '[:space:]'`
 patch=`grep -m 1 PATCH $v | cut -f2 -d':' | tr -d ,| tr -d '[:space:]'`
@@ -11,11 +12,6 @@ fi
 
 echo $version
 
-mkdir GameData
-cp ../ModuleManager*.dll GameData
-cp -a NEBULA GameData/NEBULA
-
 releasedir="."
 fname="${releasedir}/EVAHandrailsPack-${version}.zip"
 zip -9r $fname GameData
-rm -fr GameData/NEBULA GameData/*.dll
