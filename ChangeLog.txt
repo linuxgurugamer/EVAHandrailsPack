@@ -1,3 +1,5 @@
+Changelog
+
 0.2.0
 	MM patch file released for 1.0.2
 
@@ -48,3 +50,9 @@
 
 0.3.0.2
 	Make titles and names consistent
+
+0.3.0.3
+	Fixed mass for handle type 1a
+	Fixed bulkhead profile for EVA handrail curved 3mR
+	Added tags
+
