@@ -56,3 +56,8 @@ Changelog
 	Fixed bulkhead profile for EVA handrail curved 3mR
 	Added tags
 
+0.3.0.4
+	Updated version file to use github for new version info
+	Copied web page to README.md
+	Thanks ot github user @KSAMissionCtrl for finding this:
+		Fixed patch file nebulaEvaHandraiolsPatch.cfg so it doesn't insert a second bulkheadProfiles line

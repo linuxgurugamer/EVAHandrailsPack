@@ -1,18 +1,23 @@
 {
   "NAME": "EVAHandrailsPackContinued",
-  "URL": "http://ksp.spacetux.net/avc/EVAHandrailsPackContinued",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/EVAHandrailsPack/refs/heads/master/EVAHandrailsPackContinued.version",
   "DOWNLOAD": "http://spacedock.info/mod/49/EVA%20Handrails%20Continued/download",
   "CHANGE_LOG_URL": "http://spacedock.info/mod/49/EVA%20Handrails%20Continued?new=True#changelog",
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 3,
     "PATCH": 0,
-    "BUILD": 3
+    "BUILD": 4
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
     "MINOR": 8,
     "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
   },
   "INSTALL_LOC_1": {
     "NAME": "EVAHandrailsPackContinued",
