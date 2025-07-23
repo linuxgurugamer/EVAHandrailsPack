@@ -61,3 +61,6 @@ Changelog
 	Copied web page to README.md
 	Thanks ot github user @KSAMissionCtrl for finding this:
 		Fixed patch file nebulaEvaHandraiolsPatch.cfg so it doesn't insert a second bulkheadProfiles line
+		
+0.3.1
+	Localized the mod
